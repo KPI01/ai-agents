@@ -4,5 +4,6 @@
 !opencode.json
 
 !*/
+node_modules/
 !prompts/
 !prompts/**
